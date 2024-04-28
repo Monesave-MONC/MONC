@@ -8,4 +8,5 @@ Monesave Token is not just another cryptocurrency; we aim to foster a community 
 
 Monesave is an app that allows users create tasks for their children, budget and anonymously share their budgets for review. This innovative feature connects with like-minded individuals in a secure app to share their budgets, investment ideas, and receive encouragement along their financial journey. 
 Our basic idea is that we are social creatures and therefore savings money and budgeting can be a fun experience if we make it more of a community activity.
-![image](https://github.com/Monesave-MONC/MONC/assets/168345173/7c902adb-aca0-4b27-b116-0c5d1eade772)
+
+Join the movement! Join a community of users passionate about budgeting, savings and crypto investments
